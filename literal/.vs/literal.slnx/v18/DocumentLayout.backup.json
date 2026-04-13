@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Lecture\\PL\\Code_Practice\\literal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1EC7B3-9C2B-4881-8ABE-3FCA14E99350}|literal\\literal.vcxproj|C:\\Lecture\\PL\\Code_Practice\\literal\\literal\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC1EC7B3-9C2B-4881-8ABE-3FCA14E99350}|literal\\literal.vcxproj|solutionrelative:literal\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1EC7B3-9C2B-4881-8ABE-3FCA14E99350}|literal\\literal.vcxproj|C:\\Lecture\\PL\\Code_Practice\\literal\\literal\\getName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC1EC7B3-9C2B-4881-8ABE-3FCA14E99350}|literal\\literal.vcxproj|solutionrelative:literal\\getName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "getName.c",
+              "DocumentMoniker": "C:\\Lecture\\PL\\Code_Practice\\literal\\literal\\getName.c",
+              "RelativeDocumentMoniker": "literal\\getName.c",
+              "ToolTip": "C:\\Lecture\\PL\\Code_Practice\\literal\\literal\\getName.c",
+              "RelativeToolTip": "literal\\getName.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-06T03:39:18.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Lecture\\PL\\Code_Practice\\literal\\literal\\main.c",
+              "RelativeDocumentMoniker": "literal\\main.c",
+              "ToolTip": "C:\\Lecture\\PL\\Code_Practice\\literal\\literal\\main.c*",
+              "RelativeToolTip": "literal\\main.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-06T03:34:56.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

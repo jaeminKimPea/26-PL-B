@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="arrayPoint/arrayPoint.vcxproj" Id="d2250554-cd1d-4cfe-89f4-8f9f6552757e" />
+</Solution>

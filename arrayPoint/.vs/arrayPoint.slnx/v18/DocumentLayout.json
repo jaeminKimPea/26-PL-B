@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Lecture\\PL\\Code_Practice\\arrayPoint\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2250554-CD1D-4CFE-89F4-8F9F6552757E}|arrayPoint\\arrayPoint.vcxproj|C:\\Lecture\\PL\\Code_Practice\\arrayPoint\\arrayPoint\\advanture.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2250554-CD1D-4CFE-89F4-8F9F6552757E}|arrayPoint\\arrayPoint.vcxproj|solutionrelative:arrayPoint\\advanture.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2250554-CD1D-4CFE-89F4-8F9F6552757E}|arrayPoint\\arrayPoint.vcxproj|C:\\Lecture\\PL\\Code_Practice\\arrayPoint\\arrayPoint\\arraybriten.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2250554-CD1D-4CFE-89F4-8F9F6552757E}|arrayPoint\\arrayPoint.vcxproj|solutionrelative:arrayPoint\\arraybriten.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2250554-CD1D-4CFE-89F4-8F9F6552757E}|arrayPoint\\arrayPoint.vcxproj|C:\\Lecture\\PL\\Code_Practice\\arrayPoint\\arrayPoint\\array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2250554-CD1D-4CFE-89F4-8F9F6552757E}|arrayPoint\\arrayPoint.vcxproj|solutionrelative:arrayPoint\\array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "arraybriten.c",
+              "DocumentMoniker": "C:\\Lecture\\PL\\Code_Practice\\arrayPoint\\arrayPoint\\arraybriten.c",
+              "RelativeDocumentMoniker": "arrayPoint\\arraybriten.c",
+              "ToolTip": "C:\\Lecture\\PL\\Code_Practice\\arrayPoint\\arrayPoint\\arraybriten.c",
+              "RelativeToolTip": "arrayPoint\\arraybriten.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-26T06:48:18.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "advanture.c",
+              "DocumentMoniker": "C:\\Lecture\\PL\\Code_Practice\\arrayPoint\\arrayPoint\\advanture.c",
+              "RelativeDocumentMoniker": "arrayPoint\\advanture.c",
+              "ToolTip": "C:\\Lecture\\PL\\Code_Practice\\arrayPoint\\arrayPoint\\advanture.c",
+              "RelativeToolTip": "arrayPoint\\advanture.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-26T06:28:41.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "array.c",
+              "DocumentMoniker": "C:\\Lecture\\PL\\Code_Practice\\arrayPoint\\arrayPoint\\array.c",
+              "RelativeDocumentMoniker": "arrayPoint\\array.c",
+              "ToolTip": "C:\\Lecture\\PL\\Code_Practice\\arrayPoint\\arrayPoint\\array.c",
+              "RelativeToolTip": "arrayPoint\\array.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-26T06:16:27.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
